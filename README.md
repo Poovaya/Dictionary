@@ -1,3 +1,3 @@
-# Basic dictionart in python </br>
+# Basic dictionary in python </br>
 
 Supports word suggestions
